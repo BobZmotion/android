@@ -338,4 +338,8 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+
+  <project path="device/lge/msm8960-common" name="android_device_lge_msm8960-common" remote="chaos" revision="jellybean" />
+  <project path="device/lge/MS770" name="android_device_lge_MS770" remote="chaos" revision="jellybean" />
+  <project path="vendor/lge/MS770" name="vendor_lge_MS770" remote="chaos" revision="jellybean" />
 </manifest>
