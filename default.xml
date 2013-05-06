@@ -381,4 +381,5 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="device/lge/l0" name="device_lge_l0" remote="chaos" revision="cm-10.1" />
+  <project path="device/lge/MS770_kernel" name="MS770_kernel" remote="chaos" revision="v10e" />
 </manifest>
