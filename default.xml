@@ -412,4 +412,8 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
+
+  <project path="device/lge/p769" name="android_device_lge_p769" remote="chaos" revision="cm-10.1" />
+  <project path="kernel/lge/ms769" name="BobZmotion/android_kernel_lge_ms769" revision="cm-10.1_oc" />
+  <project path="vendor/lge/p769" name="vendor_lge_p769" remote="chaos" revision="cm-10.1" />
 </manifest>
