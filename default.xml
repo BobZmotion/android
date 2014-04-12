@@ -489,6 +489,6 @@
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-11.0" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-11.0" />
   <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" revision="cm-11.0" />
-  <project path="kernel/lge/mako" name="CyanogenMod/android_kernel_google_msm" revision="cm-11.0" />
+  <project path="kernel/google/msm" name="android_kernel_google_msm" remote="chaos" revision="cm-11.0" />
 
 </manifest>
