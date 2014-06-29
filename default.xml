@@ -500,4 +500,13 @@
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-11.0" />
   <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" revision="cm-11.0" />
   <project path="kernel/google/msm" name="android_kernel_google_msm" remote="chaos" revision="cm-11.0" />
+  <project path="device/sony/honami" name="android_device_sony_honami" remote="chaos" revision="cm-11.0" />
+  <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" />
+  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" revision="cm-11.0" />
+  <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" revision="cm-11.0" />
+  <project path="kernel/sony/msm8974" name="android_kernel_sony_msm8974" remote="chaos" revision="cm-11.0" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" revision="cm-11.0" />
+  <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" revision="cm-11.0" />
+  <project path="vendor/sony" name="proprietary_vendor_sony" remote="chaos" revision="cm-11.0" />
 </manifest>
