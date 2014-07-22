@@ -498,12 +498,6 @@
   <project path="device/lge/p769" name="android_device_lge_p769" remote="chaos" revision="cm-11.0" />
   <project path="kernel/lge/ms769" name="android_kernel_lge_ms769" remote="chaos" revision="cm-11.0" />
   <project path="vendor/lge/p769" name="vendor_lge_p769" remote="chaos" revision="cm-11.0" />
-  <project path="device/samsung/p3100" name="CyanogenMod/android_device_samsung_p3100" revision="cm-11.0" />
-  <project path="device/samsung/p3110" name="CyanogenMod/android_device_samsung_p3110" revision="cm-11.0" />
-  <project path="device/samsung/omap4-common" name="CyanogenMod/android_device_samsung_omap4-common" revision="cm-11.0" />
-  <project path="kernel/samsung/espresso10" name="CyanogenMod/android_kernel_samsung_espresso10" revision="cm-11.0" />
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-11.0" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-11.0" />
   <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" revision="cm-11.0" />
   <project path="kernel/google/msm" name="android_kernel_google_msm" remote="chaos" revision="cm-11.0" />
   <project path="device/sony/honami" name="android_device_sony_honami" remote="chaos" revision="cm-11.0" />
