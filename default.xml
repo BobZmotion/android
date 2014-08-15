@@ -500,6 +500,8 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="vendor/cm" name="android_vendor_cm" remote="chaos" revision="cm-11.0" />
+    <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
+  </project>
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
 
   <project path="device/lge/p769" name="android_device_lge_p769" remote="chaos" revision="cm-11.0" />
