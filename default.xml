@@ -506,6 +506,7 @@
   <project path="kernel/google/msm" name="android_kernel_google_msm" remote="chaos" revision="cm-11.0" />
   <project path="device/sony/honami" name="android_device_sony_honami" remote="chaos" revision="cm-11.0" />
   <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" revision="cm-11.0" />
+  <project path="device/sony/msm8974-common" name="CyanogenMod/android_device_sony_msm8974-common" revision="cm-11.0" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" />
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" revision="cm-11.0" />
   <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" revision="cm-11.0" />
